@@ -1,0 +1,1 @@
+tiny bloom embedding module in [dm-haiku](https://dm-haiku.readthedocs.io/)
